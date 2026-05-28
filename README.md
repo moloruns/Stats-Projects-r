@@ -5,6 +5,6 @@ my coursework and independent study. Projects are organized by topic and primari
 use R.
 
 ## Projects
-- [Language Acquisition Analysis](./language-acquisition/) — Investigating predictors 
+- [Language Acquisition Analysis](./language_acquisition/) — Investigating predictors 
   of English proficiency in second language learners using GAMs, inferential testing, 
   and bootstrapping.
